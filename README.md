@@ -20,7 +20,7 @@ See the installation procedure for this at [Mathworks' website](https://uk.mathw
 ## Example
 
 As previously mentioned, this program takes input from the user as to where the virtual satellite is directed.
-Part of the input process takes place through MATLAB's GUI input. An example for a **Reconnaissance** satellite orbiting the planet **Venus** at a circular parking orbit of height **300 km**.
+Part of the input process takes place through MATLAB's GUI input. An example for a *Reconnaissance* satellite orbiting the planet *Venus* at a circular parking orbit of height *300 km*.
 
 After using MATLAB's GUI menus for inputing satellite type and destination, it will ask for an orbit height, inputting as exampled:
 
